@@ -1,0 +1,14 @@
+.MyIpt {
+    width: 500px;
+    height: 150px;
+    border-radius: 10px ;
+    margin: 20px;
+    border: 0;
+    resize: none;
+}
+
+.MyDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
